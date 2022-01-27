@@ -1,0 +1,141 @@
+.about {
+  background-color: #f8f8f8;
+  /* margin: auto;
+  padding: 5rem 1rem 0 1rem; */
+  width: 100%;
+}
+
+.about .container {
+  width: 1240px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+.about .container img {
+  padding: 0rem;
+  width: 40vw;
+  margin-top: 54px;
+  margin-left: 51px;
+}
+.about article {
+  border: 1px solid #eee;
+  border-radius: 8px;
+  box-shadow: 0 3px 10px rgb(0,0,0,.2);
+  padding: 2rem;
+  
+}
+
+.extra-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 3rem;
+  transition: .10s ease-in;
+}
+.about .col-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: center; */
+  /* padding: 3rem; */
+}
+.about .col-2 article h1{
+    color: var(--h-color);
+    margin-bottom: 20px;
+    letter-spacing: 0.2rem;
+    font-weight: 400;
+    font-size: 30px;
+  }
+.about h2 {
+    font-size: 3rem;
+    color: var(--h-color);
+    margin: 50px 0 50px 42px;
+    padding-left: 1rem;
+    
+}
+.extra-content-articales {
+  margin: 0 10px;
+}
+.extra-content-articales h4 {
+  color: var(--h-color);
+  margin-bottom: 20px;
+  letter-spacing: 0.2rem;
+  font-weight: 400;
+  font-size: 20px;
+}
+.extra-content-articales p {
+  color: var(--p-color);
+  letter-spacing: 0.1rem;
+  font-size: 1rem;
+  font-weight: 100;
+  line-height: 2rem;
+  max-width: 30ch;
+}
+
+.about .col-2 p {
+  color: var(--p-color);
+  margin: 2rem 0;
+  letter-spacing: 0.1rem;
+  font-size: 1rem;
+  font-weight: 100;
+  line-height: 2rem;
+  max-width: 42ch;
+}
+
+.about button {
+  margin-top: 2rem;
+}
+
+@media screen and (max-width: 940px) {
+  .about .container {
+    grid-template-columns: 1fr;
+  }
+
+  .about .container {
+    width: 100%;
+    padding: 10px;
+  }
+  .extra-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem;
+  }
+  .extra-content-articales {
+    margin: 25px 0px;
+}
+.extra-content-articales p {
+   
+    max-width: 38ch;
+}
+.about .col-2 p {
+    color: var(--p-color);
+    margin: 0;
+    letter-spacing: 0.1rem;
+    font-weight: 300;
+    line-height: 2rem;
+    max-width: 42ch;
+  }
+  .about h2 {
+    font-size: 2rem;
+    text-align: center;
+    margin: 50px 0;
+    padding-left: 0rem;
+  }
+
+  .about .container img {
+    width: 83vw;
+    margin: 51px 0;
+  }
+
+  .about .container .col-2 {
+    padding: 0;
+  }
+  
+
+  .about button {
+    margin-bottom: 1rem;
+  }
+}
