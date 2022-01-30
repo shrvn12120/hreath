@@ -10,6 +10,7 @@ import DeluxDoubleRoomInfo from "./DeluxDoubleRoomInfo";
 
 
 
+
 const Rooms = () => {
     const  ReadMoreDoubleRoom=()=> {
     const [doubleRoom, setDoubleRoom] = useState(false);
@@ -89,9 +90,9 @@ return (
 
 );
 }
- 
+
+
     const RoomCategoris = (props) => {
- 
     return (
       <div className="room-categoreis">
         <div className="card">
@@ -116,7 +117,6 @@ return (
       <div className="container">
         <div className="room-content">
           <p>varity of room available in our guest house fell free to choose</p>
-
           <div className="content">
           <RoomCategoris
             roomName="Double Room"
@@ -142,7 +142,7 @@ return (
             price="36 $"
             img={deluxDoubleRoom}
             imgAlt="family room image"
-            readMore={<ReadMoreDeluxDoubleRoom />}
+           readMore={<ReadMoreDeluxDoubleRoom />}
           />
          
         </div>
