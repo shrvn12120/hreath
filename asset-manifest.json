@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.d10f0eed.chunk.css",
-    "main.js": "/static/js/main.abfa2077.chunk.js",
-    "main.js.map": "/static/js/main.abfa2077.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.36d716f9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.36d716f9.js.map",
-    "static/js/2.89ad56e7.chunk.js": "/static/js/2.89ad56e7.chunk.js",
-    "static/js/2.89ad56e7.chunk.js.map": "/static/js/2.89ad56e7.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.d10f0eed.chunk.css.map": "/static/css/main.d10f0eed.chunk.css.map",
-    "static/js/2.89ad56e7.chunk.js.LICENSE.txt": "/static/js/2.89ad56e7.chunk.js.LICENSE.txt",
-    "static/media/Delux-double-room.566edaf1.jpg": "/static/media/Delux-double-room.566edaf1.jpg",
-    "static/media/Double-room.f312bcee.jpg": "/static/media/Double-room.f312bcee.jpg",
-    "static/media/Family-room.367e7792.jpg": "/static/media/Family-room.367e7792.jpg",
-    "static/media/Home.css": "/static/media/hero.ea9debe7.jpg",
-    "static/media/street.f3e4b50d.jpeg": "/static/media/street.f3e4b50d.jpeg",
-    "static/media/test.f4e8def6.jpeg": "/static/media/test.f4e8def6.jpeg"
+    "main.css": "/hreath/static/css/main.3b173b28.chunk.css",
+    "main.js": "/hreath/static/js/main.abfa2077.chunk.js",
+    "main.js.map": "/hreath/static/js/main.abfa2077.chunk.js.map",
+    "runtime-main.js": "/hreath/static/js/runtime-main.354c6987.js",
+    "runtime-main.js.map": "/hreath/static/js/runtime-main.354c6987.js.map",
+    "static/js/2.89ad56e7.chunk.js": "/hreath/static/js/2.89ad56e7.chunk.js",
+    "static/js/2.89ad56e7.chunk.js.map": "/hreath/static/js/2.89ad56e7.chunk.js.map",
+    "index.html": "/hreath/index.html",
+    "static/css/main.3b173b28.chunk.css.map": "/hreath/static/css/main.3b173b28.chunk.css.map",
+    "static/js/2.89ad56e7.chunk.js.LICENSE.txt": "/hreath/static/js/2.89ad56e7.chunk.js.LICENSE.txt",
+    "static/media/Delux-double-room.566edaf1.jpg": "/hreath/static/media/Delux-double-room.566edaf1.jpg",
+    "static/media/Double-room.f312bcee.jpg": "/hreath/static/media/Double-room.f312bcee.jpg",
+    "static/media/Family-room.367e7792.jpg": "/hreath/static/media/Family-room.367e7792.jpg",
+    "static/media/Home.css": "/hreath/static/media/hero.ea9debe7.jpg",
+    "static/media/street.f3e4b50d.jpeg": "/hreath/static/media/street.f3e4b50d.jpeg",
+    "static/media/test.f4e8def6.jpeg": "/hreath/static/media/test.f4e8def6.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.36d716f9.js",
+    "static/js/runtime-main.354c6987.js",
     "static/js/2.89ad56e7.chunk.js",
-    "static/css/main.d10f0eed.chunk.css",
+    "static/css/main.3b173b28.chunk.css",
     "static/js/main.abfa2077.chunk.js"
   ]
 }
