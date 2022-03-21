@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/hreath/static/css/main.0a869c95.chunk.css",
-    "main.js": "/hreath/static/js/main.74438f7b.chunk.js",
-    "main.js.map": "/hreath/static/js/main.74438f7b.chunk.js.map",
+    "main.js": "/hreath/static/js/main.1a7db87b.chunk.js",
+    "main.js.map": "/hreath/static/js/main.1a7db87b.chunk.js.map",
     "runtime-main.js": "/hreath/static/js/runtime-main.8ed3ca0c.js",
     "runtime-main.js.map": "/hreath/static/js/runtime-main.8ed3ca0c.js.map",
     "static/css/2.ed1298f3.chunk.css": "/hreath/static/css/2.ed1298f3.chunk.css",
-    "static/js/2.b9b34240.chunk.js": "/hreath/static/js/2.b9b34240.chunk.js",
-    "static/js/2.b9b34240.chunk.js.map": "/hreath/static/js/2.b9b34240.chunk.js.map",
+    "static/js/2.45949b66.chunk.js": "/hreath/static/js/2.45949b66.chunk.js",
+    "static/js/2.45949b66.chunk.js.map": "/hreath/static/js/2.45949b66.chunk.js.map",
     "index.html": "/hreath/index.html",
     "static/css/2.ed1298f3.chunk.css.map": "/hreath/static/css/2.ed1298f3.chunk.css.map",
     "static/css/main.0a869c95.chunk.css.map": "/hreath/static/css/main.0a869c95.chunk.css.map",
-    "static/js/2.b9b34240.chunk.js.LICENSE.txt": "/hreath/static/js/2.b9b34240.chunk.js.LICENSE.txt",
+    "static/js/2.45949b66.chunk.js.LICENSE.txt": "/hreath/static/js/2.45949b66.chunk.js.LICENSE.txt",
     "static/media/Delux-double-room.566edaf1.jpg": "/hreath/static/media/Delux-double-room.566edaf1.jpg",
     "static/media/Double-room.f312bcee.jpg": "/hreath/static/media/Double-room.f312bcee.jpg",
     "static/media/Family-room.367e7792.jpg": "/hreath/static/media/Family-room.367e7792.jpg",
@@ -30,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.8ed3ca0c.js",
     "static/css/2.ed1298f3.chunk.css",
-    "static/js/2.b9b34240.chunk.js",
+    "static/js/2.45949b66.chunk.js",
     "static/css/main.0a869c95.chunk.css",
-    "static/js/main.74438f7b.chunk.js"
+    "static/js/main.1a7db87b.chunk.js"
   ]
 }
