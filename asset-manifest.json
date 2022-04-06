@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/hreath/static/css/main.f13f314b.chunk.css",
-    "main.js": "/hreath/static/js/main.c7d76ca6.chunk.js",
-    "main.js.map": "/hreath/static/js/main.c7d76ca6.chunk.js.map",
+    "main.css": "/hreath/static/css/main.881956ec.chunk.css",
+    "main.js": "/hreath/static/js/main.7ed2bff8.chunk.js",
+    "main.js.map": "/hreath/static/js/main.7ed2bff8.chunk.js.map",
     "runtime-main.js": "/hreath/static/js/runtime-main.8ed3ca0c.js",
     "runtime-main.js.map": "/hreath/static/js/runtime-main.8ed3ca0c.js.map",
     "static/css/2.ed1298f3.chunk.css": "/hreath/static/css/2.ed1298f3.chunk.css",
-    "static/js/2.45949b66.chunk.js": "/hreath/static/js/2.45949b66.chunk.js",
-    "static/js/2.45949b66.chunk.js.map": "/hreath/static/js/2.45949b66.chunk.js.map",
+    "static/js/2.98cf31c9.chunk.js": "/hreath/static/js/2.98cf31c9.chunk.js",
+    "static/js/2.98cf31c9.chunk.js.map": "/hreath/static/js/2.98cf31c9.chunk.js.map",
     "index.html": "/hreath/index.html",
     "static/css/2.ed1298f3.chunk.css.map": "/hreath/static/css/2.ed1298f3.chunk.css.map",
-    "static/css/main.f13f314b.chunk.css.map": "/hreath/static/css/main.f13f314b.chunk.css.map",
-    "static/js/2.45949b66.chunk.js.LICENSE.txt": "/hreath/static/js/2.45949b66.chunk.js.LICENSE.txt",
+    "static/css/main.881956ec.chunk.css.map": "/hreath/static/css/main.881956ec.chunk.css.map",
+    "static/js/2.98cf31c9.chunk.js.LICENSE.txt": "/hreath/static/js/2.98cf31c9.chunk.js.LICENSE.txt",
     "static/media/Delux-double-room.566edaf1.jpg": "/hreath/static/media/Delux-double-room.566edaf1.jpg",
     "static/media/Double-room.f312bcee.jpg": "/hreath/static/media/Double-room.f312bcee.jpg",
     "static/media/Family-room.367e7792.jpg": "/hreath/static/media/Family-room.367e7792.jpg",
@@ -21,6 +21,7 @@
     "static/media/snorkling-1.ae2f3497.JPG": "/hreath/static/media/snorkling-1.ae2f3497.JPG",
     "static/media/snorkling-2.935c72b4.JPG": "/hreath/static/media/snorkling-2.935c72b4.JPG",
     "static/media/snorkling-3.14c65db5.JPG": "/hreath/static/media/snorkling-3.14c65db5.JPG",
+    "static/media/snorkling-4.b4d9daaf.JPG": "/hreath/static/media/snorkling-4.b4d9daaf.JPG",
     "static/media/street.f3e4b50d.jpeg": "/hreath/static/media/street.f3e4b50d.jpeg",
     "static/media/surfing-1.7bdba7f7.jpg": "/hreath/static/media/surfing-1.7bdba7f7.jpg",
     "static/media/surfing-2.c79cf55f.jpg": "/hreath/static/media/surfing-2.c79cf55f.jpg",
@@ -31,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.8ed3ca0c.js",
     "static/css/2.ed1298f3.chunk.css",
-    "static/js/2.45949b66.chunk.js",
-    "static/css/main.f13f314b.chunk.css",
-    "static/js/main.c7d76ca6.chunk.js"
+    "static/js/2.98cf31c9.chunk.js",
+    "static/css/main.881956ec.chunk.css",
+    "static/js/main.7ed2bff8.chunk.js"
   ]
 }
