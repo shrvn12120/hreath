@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/hreath/static/css/main.abd5a3b2.chunk.css",
-    "main.js": "/hreath/static/js/main.1d5036c2.chunk.js",
-    "main.js.map": "/hreath/static/js/main.1d5036c2.chunk.js.map",
-    "runtime-main.js": "/hreath/static/js/runtime-main.8ed3ca0c.js",
-    "runtime-main.js.map": "/hreath/static/js/runtime-main.8ed3ca0c.js.map",
-    "static/css/2.ed1298f3.chunk.css": "/hreath/static/css/2.ed1298f3.chunk.css",
-    "static/js/2.735181a3.chunk.js": "/hreath/static/js/2.735181a3.chunk.js",
-    "static/js/2.735181a3.chunk.js.map": "/hreath/static/js/2.735181a3.chunk.js.map",
+    "main.css": "/hreath/static/css/main.33814699.chunk.css",
+    "main.js": "/hreath/static/js/main.f89fbb50.chunk.js",
+    "main.js.map": "/hreath/static/js/main.f89fbb50.chunk.js.map",
+    "runtime-main.js": "/hreath/static/js/runtime-main.c3d7fdf6.js",
+    "runtime-main.js.map": "/hreath/static/js/runtime-main.c3d7fdf6.js.map",
+    "static/css/2.336bf82f.chunk.css": "/hreath/static/css/2.336bf82f.chunk.css",
+    "static/js/2.4b67f73d.chunk.js": "/hreath/static/js/2.4b67f73d.chunk.js",
+    "static/js/2.4b67f73d.chunk.js.map": "/hreath/static/js/2.4b67f73d.chunk.js.map",
     "index.html": "/hreath/index.html",
-    "static/css/2.ed1298f3.chunk.css.map": "/hreath/static/css/2.ed1298f3.chunk.css.map",
-    "static/css/main.abd5a3b2.chunk.css.map": "/hreath/static/css/main.abd5a3b2.chunk.css.map",
-    "static/js/2.735181a3.chunk.js.LICENSE.txt": "/hreath/static/js/2.735181a3.chunk.js.LICENSE.txt",
+    "static/css/2.336bf82f.chunk.css.map": "/hreath/static/css/2.336bf82f.chunk.css.map",
+    "static/css/main.33814699.chunk.css.map": "/hreath/static/css/main.33814699.chunk.css.map",
+    "static/js/2.4b67f73d.chunk.js.LICENSE.txt": "/hreath/static/js/2.4b67f73d.chunk.js.LICENSE.txt",
     "static/media/Delux-double-room.363bf6e1.jpg": "/hreath/static/media/Delux-double-room.363bf6e1.jpg",
     "static/media/Double-room.f312bcee.jpg": "/hreath/static/media/Double-room.f312bcee.jpg",
     "static/media/Family-room.367e7792.jpg": "/hreath/static/media/Family-room.367e7792.jpg",
@@ -39,14 +39,13 @@
     "static/media/surfing-1.7bdba7f7.jpg": "/hreath/static/media/surfing-1.7bdba7f7.jpg",
     "static/media/surfing-2.c79cf55f.jpg": "/hreath/static/media/surfing-2.c79cf55f.jpg",
     "static/media/surfing-3.bbe3e377.jpg": "/hreath/static/media/surfing-3.bbe3e377.jpg",
-    "static/media/test.f4e8def6.jpeg": "/hreath/static/media/test.f4e8def6.jpeg",
     "static/media/video-1.3ac60e54.MP4": "/hreath/static/media/video-1.3ac60e54.MP4"
   },
   "entrypoints": [
-    "static/js/runtime-main.8ed3ca0c.js",
-    "static/css/2.ed1298f3.chunk.css",
-    "static/js/2.735181a3.chunk.js",
-    "static/css/main.abd5a3b2.chunk.css",
-    "static/js/main.1d5036c2.chunk.js"
+    "static/js/runtime-main.c3d7fdf6.js",
+    "static/css/2.336bf82f.chunk.css",
+    "static/js/2.4b67f73d.chunk.js",
+    "static/css/main.33814699.chunk.css",
+    "static/js/main.f89fbb50.chunk.js"
   ]
 }
